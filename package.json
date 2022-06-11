@@ -13,7 +13,7 @@
     "theme"
   ],
   "scripts": {
-    "dev": "next",
+    "dev": "next -p 3001",
     "build": "next build",
     "start": "next start",
     "type-check": "tsc",
@@ -34,7 +34,7 @@
     "next-seo": "4.20.0",
     "react": "17.0.1",
     "react-dom": "17.0.1",
-    "react-particles-js": "3.4.1",
+    "react-tsparticles": "2.0.6",
     "twind": "0.15.4"
   },
   "devDependencies": {

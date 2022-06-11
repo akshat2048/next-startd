@@ -14,37 +14,41 @@ type Link = {
 
 const links = [
   {
-    label: `Features`,
-    href: `/`,
+    label: `Curriculum`,
+    href: `/curriculum`,
   },
   {
-    label: `Testimonials`,
-    href: `/`,
+    label: `Schedule`,
+    href: `/schedule`,
   },
   {
-    label: `Pricing`,
-    href: `/`,
+    label: `Our Team`,
+    href: `/our-team`,
   },
   {
-    label: `Blog`,
-    href: `/`,
+    label: `Contact Us`,
+    href: `mailto:23channa@elmbrookstudents.org?subject= Request for Information from Impact Debate&body=Please list any concerns you have below:`,
+  },
+  {
+    label: `Register`,
+    href: `https://forms.gle/nkZb2tDSyTDWFL38A`,
   },
 ];
 
-const secondaryLinks = [
-  {
-    label: `Contact sales`,
-    href: `/`,
-  },
-  {
-    label: `Log in`,
-    href: `/`,
-  },
-  {
-    label: `Get Started`,
-    href: `/`,
-  },
-];
+// const secondaryLinks = [
+//   {
+//     label: `Contact sales`,
+//     href: `/`,
+//   },
+//   {
+//     label: `Log in`,
+//     href: `/`,
+//   },
+//   {
+//     label: `Get Started`,
+//     href: `/`,
+//   },
+// ];
 
 const MenuButton = ({ toggleMenu, showMenu }: IMenuButton) => (
   <button
@@ -136,13 +140,13 @@ const Navigation = () => {
               </div>
             </div>
           </div>
-          <div className={tw(`hidden md:block`)}>
+          {/* <div className={tw(`hidden md:block`)}>
             <div className={tw(`ml-4 flex items-center md:ml-6`)}>
               <Button modifier="border-0 mr-2">Contact sales</Button>
               <Button modifier="border-0 mr-2">Log in</Button>
               <Button primary>Get started</Button>
             </div>
-          </div>
+          </div> */}
           <div className={tw(`-mr-2 flex md:hidden`)}>
             <MenuButton showMenu={showMenu} toggleMenu={toggleMenu} />
           </div>

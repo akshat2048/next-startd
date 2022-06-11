@@ -13,19 +13,18 @@ export default function Home() {
   return (
     <Page>
       <NextSeo
-        title="STARTD - Template"
+        title="Impact Debate"
         description="A TypeScript/Next.js theme that includes everything you need to build amazing landing page!"
       />
       <Header />
-      <main>
+      {/* <main>
         <VideoSection />
         <ListSection />
         <FeatureSection />
         <CasesSection />
         <SocialProof />
         <PricingTable />
-      </main>
-      <Footer />
+      </main> */}
     </Page>
   );
 }
