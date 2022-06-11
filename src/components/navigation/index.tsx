@@ -99,7 +99,7 @@ const MobileMenu = () => (
       ))}
     </div>
     <div className={tw(`pt-4 pb-3 border-t border-gray-400`)}>
-      <div className={tw(`px-2 space-y-1`)}>
+      {/* <div className={tw(`px-2 space-y-1`)}>
         {secondaryLinks.map((link: Link) => (
           <a
             key={`mobile-${link.label}`}
@@ -109,7 +109,7 @@ const MobileMenu = () => (
             {link.label}
           </a>
         ))}
-      </div>
+      </div> */}
     </div>
   </div>
 );
