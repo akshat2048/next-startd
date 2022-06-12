@@ -62,7 +62,7 @@ const articles = [
 const tentative_staff_articles = [
   {
     title: `Rafeh Khan something soemthing something someething. something soemthing something someething something soemthing something someething something soemthing something someething something soemthing something someething something soemthing something someething something soemthing something  `,
-    image: `/images/case-2.webp`,
+    image: `https://i.imgur.com/J6te8jW.jpg`,
     alt: `Proident pariatur est.`,
     name: `Lead Instructor`,
   },
