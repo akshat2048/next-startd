@@ -8,6 +8,35 @@ import CasesSection from '@/components/cases-section';
 import SocialProof from '@/components/social-proof';
 import PricingTable from '@/components/pricing-table';
 import Footer from '@/components/footer';
+import Gallery from 'react-photo-gallery';
+
+const photos = [
+  {
+    src: 'https://i.imgur.com/qZ1uNfA.jpg',
+    width: 4,
+    height: 3
+  },
+  {
+    src: 'https://i.imgur.com/J6te8jW.jpg',
+    width: 4,
+    height: 3.5
+  },
+  {
+    src: 'https://i.imgur.com/RqrYSRY.jpg',
+    width: 4,
+    height: 3.5
+  },
+  {
+    src: 'https://i.imgur.com/nGoWWph.jpg',
+    width: 4,
+    height: 3.5
+  },
+  {
+    src: 'https://i.imgur.com/b4SAvbw.jpg',
+    width: 4,
+    height: 3.5
+  }
+];
 
 export default function Home() {
   return (
@@ -17,6 +46,10 @@ export default function Home() {
         description="A TypeScript/Next.js theme that includes everything you need to build amazing landing page!"
       />
       <Header />
+      <Gallery photos={photos} />
+      <Gallery photos={photos} />
+      <Gallery photos={photos} />
+
       {/* <main>
         <VideoSection />
         <ListSection />

@@ -46,22 +46,22 @@ const ParticleBg = () => (
 
 const articles = [
   {
-    title: `Impact Debate's Co-Founders Akshat Channashetti and Muthu Sundar are both rising seniors at Brookfield East High School. Having won numerous local tournaments since their freshman year, championing the WDCA State Tournament their sophomore year, and qualifying to Gold TOC with 5 bids their junior year, Brookfield East CS has a proven track record when it comes to public forum debate.`,
+    title: `Impact Debate's Muthu Sundar is a rising senior at Brookfield East High School. Having won numerous local tournaments since his freshman year, championing the Wisconsin State Tournament his sophomore year, and qualifying to Gold TOC with 5 bids his junior year, Muthu has a proven track record when it comes to public forum debate.`,
     image: `/images/case-1.webp`,
     alt: `Proident pariatur est.`,
-    name: `Co-Founders`,
+    name: `Co-Founder`,
   },
   {
-    title: `Rafeh Khan something soemthing something someething. something soemthing something someething something soemthing something someething something soemthing something someething something soemthing something someething something soemthing something someething something soemthing something someething something soemthing something someething`,
+    title: `Impact Debate's Akshat Channashetti is a rising senior at Brookfield East High School. In addition to winning multiple tournaments alonside Muthu, Akshat has also shown avid success in fields like Congressional debate, which have positions him to be a strong mentor for students to rely on as they work to improve their public speaking skills.`,
+    image: `/images/akshat.jpg`,
+    alt: `Proident pariatur est.`,
+    name: `Co-Founder`,
+  },
+  {
+    title: `Rafeh Khan something soemthing something someething. something soemthing something someething something soemthing something someething something soemthing something someething something soemthing something someething something soemthing something someething something soemthing something  `,
     image: `/images/case-2.webp`,
     alt: `Proident pariatur est.`,
     name: `Lead Instructor`,
-  },
-  {
-    title: `Velit reprehenderit culpa Lorem reprehenderit excepteur esse. lit reprehenderit culpa Lorem reprehenderit excepteur esse. lit reprehenderit culpa Lorem reprehenderit excepteur esse. lit reprehenderit culpa Lorem reprehenderit excepteur esse. something soemthing something someething something soemthing something someethingsomething soemthing something someething`,
-    image: `/images/case-3.webp`,
-    alt: `Proident pariatur est.`,
-    name: `Lab Director`,
   }
 ];
 
