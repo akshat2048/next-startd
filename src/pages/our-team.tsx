@@ -47,7 +47,7 @@ const ParticleBg = () => (
 const articles = [
   {
     title: `Muthukumar Sundar debates for Brookfield East in Brookfield Wisconsin. In his career so far he has been ranked as high as 8th in the nation. He has received 5 bids to the prestigious Tournament of Champions and also qualified to the National Speech and Debate Tournament for the past three years. In addition, he has quarterfinaled at many national circuit tournaments such as Jack Howe, Emory, and Apple Valley. Locally, he championed the Wisconsin State Debate Tournament in just his sophomore year. Muthu has also won numerous speaker awards at national tournaments. He is excited to teach at Impact!`,
-    image: `https://i.imgur.com/QDeqGKw.jpg`,
+    image: `https://i.imgur.com/IvudAqt.jpg?1`,
     alt: `Proident pariatur est.`,
     name: `Co-Founder`,
   },
