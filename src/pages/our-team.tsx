@@ -46,13 +46,13 @@ const ParticleBg = () => (
 
 const articles = [
   {
-    title: `Impact Debate's Muthu Sundar is a rising senior at Brookfield East High School. Having won numerous local tournaments since his freshman year, championing the Wisconsin State Tournament his sophomore year, and qualifying to Gold TOC with 5 bids his junior year, Muthu has a proven track record when it comes to public forum debate.`,
-    image: `/images/case-1.webp`,
+    title: `Muthukumar Sundar debates for Brookfield East in Brookfield Wisconsin. In his career so far he has been ranked as high as 8th in the nation. He has received 5 bids to the prestigious Tournament of Champions and also qualified to the National Speech and Debate Tournament for the past three years. In addition, he has quarterfinaled at many national circuit tournaments such as Jack Howe, Emory, and Apple Valley. Locally, he championed the Wisconsin State Debate Tournament in just his sophomore year. Muthu has also won numerous speaker awards at national tournaments. He is excited to teach at Impact!`,
+    image: `https://i.imgur.com/QDeqGKw.jpg`,
     alt: `Proident pariatur est.`,
     name: `Co-Founder`,
   },
   {
-    title: `Impact Debate's Akshat Channashetti is a rising senior at Brookfield East High School. In addition to winning multiple tournaments alonside Muthu, Akshat has also shown avid success in fields like Congressional debate, which have positions him to be a strong mentor for students to rely on as they work to improve their public speaking skills.`,
+    title: `Akshat Channashetti is a rising senior at Brookfield East High School. In addition to winning multiple national circuit tournaments alonside Muthu, Akshat has also shown avid success in fields like Congressional debate, which have positions him to be a strong mentor for students to rely on as they work to improve their public speaking skills. He has received multiple speaker awards as well from tournaments like Nano Nagle Classic and the Apple Valley Invitational. Lastly, he's qualified to the NSDA and NCFL National tournaments in public forum debate. He is excited to teach at Impact!`,
     image: `/images/akshat.jpg`,
     alt: `Proident pariatur est.`,
     name: `Co-Founder`,
@@ -103,8 +103,8 @@ const tentative_staff_articles = [
     name: `Instructor`,
   },
   {
-    title: `Aarush Jain something soemthing something someething something soemthing something someething something soemthing something someething something soemthing something someething something soemthing something someething something soemthing something someething something  `,
-    image: `/images/case-2.webp`,
+    title: `Aarush Kaboo (he/him) is a rising senior at Seven Lakes High school where he competes as a first speaker for Seven Lakes KM. He has championed two national circuit tournaments at Alta (Silver and Black) and the University of Houston while also acquiring a gold bid at Blake, giving him 3 gold bids with two silvers from Blue Key and Berkeley. He has also been invited to the Berkeley and King Round Robin. He is skilled in persuasion and building a narrative as well as analytical thinking. He is very excited to work with Impact Debate this summer!`,
+    image: `https://i.imgur.com/6BLUpzz.jpg`,
     alt: `Proident pariatur est.`,
     name: `Instructor`,
   }
