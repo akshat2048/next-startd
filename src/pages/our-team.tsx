@@ -60,42 +60,34 @@ const articles = [
 ];
 
 const tentative_staff_articles = [
-  {
-    title: `Rafeh Khan something soemthing something someething. something soemthing something someething something soemthing something someething something soemthing something someething something soemthing something someething something soemthing something someething something soemthing something  `,
-    image: `https://i.imgur.com/J6te8jW.jpg`,
-    alt: `Proident pariatur est.`,
-    name: `Lead Instructor`,
-  },
-  {
-    title: `Shailan Patel something soemthing something someething something soemthing something someething something soemthing something someething something soemthing something someething something soemthing something someething something soemthing something someething something soemthing  `,
-    image: `/images/case-1.webp`,
-    alt: `Proident pariatur est.`,
-    name: `Instructor`,
-  },
-  {
-    title: `Melinda Li something soemthing something someething something soemthing something someething something soemthing something someething something soemthing something someething something soemthing something someething something soemthing something someething something soemthing  `,
-    image: `/images/case-3.webp`,
-    alt: `Proident pariatur est.`,
-    name: `Lab Leader`,
-  },
-  {
-    title: `Claire Wang something soemthing something someething something soemthing something someething something soemthing something someething something soemthing something someething something soemthing something someething something soemthing something someething something soemthing  `,
-    image: `/images/case-1.webp`,
-    alt: `Proident pariatur est.`,
-    name: `Lab Leader`,
-  },
-  {
-    title: `Dheeraj Pasikanti something soemthing something someething something soemthing something someething something soemthing something someething something soemthing something someething something soemthing something someething something soemthing something someething something  `,
-    image: `/images/case-2.webp`,
-    alt: `Proident pariatur est.`,
-    name: `Instructor`,
-  },
+
   {
     title: `Mahit Dagar something soemthing something someething something soemthing something someething something soemthing something someething something soemthing something someething something soemthing something someething something soemthing something someething something  `,
     image: `/images/case-3.webp`,
     alt: `Proident pariatur est.`,
     name: `Instructor`,
   },
+
+  {
+    title: `Aarush Kaboo (he/him) is a rising senior at Seven Lakes High school where he competes as a first speaker for Seven Lakes KM. He has championed two national circuit tournaments at Alta (Silver and Black) and the University of Houston while also acquiring a gold bid at Blake, giving him 3 gold bids with two silvers from Blue Key and Berkeley. He has also been invited to the Berkeley and King Round Robin. He is skilled in persuasion and building a narrative as well as analytical thinking. He is very excited to work with Impact Debate this summer!`,
+    image: `https://i.imgur.com/6BLUpzz.jpg`,
+    alt: `Proident pariatur est.`,
+    name: `Instructor`,
+  },
+  {
+    title: `Rafeh Khan something soemthing something someething. something soemthing something someething something soemthing something someething something soemthing something someething something soemthing something someething something soemthing something someething something soemthing something  `,
+    image: `https://i.imgur.com/J6te8jW.jpg`,
+    alt: `Proident pariatur est.`,
+    name: `Instructor`,
+  },
+
+  {
+    title: `Melinda Li something soemthing something someething something soemthing something someething something soemthing something someething something soemthing something someething something soemthing something someething something soemthing something someething something soemthing  `,
+    image: `/images/case-3.webp`,
+    alt: `Proident pariatur est.`,
+    name: `Lab Leader`,
+  },
+
   {
     title: `Arnav Mehta something soemthing something someething something soemthing something someething something soemthing something someething something soemthing something someething something soemthing something someething something soemthing something someething something  `,
     image: `/images/case-1.webp`,
@@ -103,11 +95,24 @@ const tentative_staff_articles = [
     name: `Instructor`,
   },
   {
-    title: `Aarush Kaboo (he/him) is a rising senior at Seven Lakes High school where he competes as a first speaker for Seven Lakes KM. He has championed two national circuit tournaments at Alta (Silver and Black) and the University of Houston while also acquiring a gold bid at Blake, giving him 3 gold bids with two silvers from Blue Key and Berkeley. He has also been invited to the Berkeley and King Round Robin. He is skilled in persuasion and building a narrative as well as analytical thinking. He is very excited to work with Impact Debate this summer!`,
-    image: `https://i.imgur.com/6BLUpzz.jpg`,
+    title: `Shailan Patel something soemthing something someething something soemthing something someething something soemthing something someething something soemthing something someething something soemthing something someething something soemthing something someething something soemthing  `,
+    image: `/images/case-1.webp`,
     alt: `Proident pariatur est.`,
     name: `Instructor`,
-  }
+  },
+
+  {
+    title: `Dheeraj Pasikanti something soemthing something someething something soemthing something someething something soemthing something someething something soemthing something someething something soemthing something someething something soemthing something someething something  `,
+    image: `/images/case-2.webp`,
+    alt: `Proident pariatur est.`,
+    name: `Instructor`,
+  },
+  {
+    title: `Claire Wang something soemthing something someething something soemthing something someething something soemthing something someething something soemthing something someething something soemthing something someething something soemthing something someething something soemthing  `,
+    image: `/images/case-1.webp`,
+    alt: `Proident pariatur est.`,
+    name: `Lab Leader`,
+  },
 ]
 
 const CasesSection = () => (
