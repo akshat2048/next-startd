@@ -60,10 +60,16 @@ const articles = [
 ];
 
 const tentative_staff_articles = [
+  {
+    title: `Shabbir Bohri debated for Coppell High School in Coppell, TX. Over the course of his 3 years in Public Forum debate, he reached late outrounds at numerous tournaments, qualifying to the TOC as a junior, and amassing 6 bids his senior year. He reached late elimination rounds and earned bids at the Yale Invitational and the Glenbrooks tournament. Most notably, he championed the 2021 Texas State Tournament, the Grapevine Classic and the University of Texas, placed 2nd at the University of Michigan tournament, and quarterfinaled the 2020 Texas State tournament. Shabbir has also won numerous speaker awards at national tournaments, top speaking Grapevine, as well as 3rd at Blake and Michigan, and 4th at the Strake Jesuit Round Robin. He looks forward to joining Impact’s team this summer!`,
+    image: `/images/shabbir.png`,
+    alt: `Proident pariatur est.`,
+    name: `Consulting Mentor`,
+  },
 
   {
-    title: `Mahit Dagar something soemthing something someething something soemthing something someething something soemthing something someething something soemthing something someething something soemthing something someething something soemthing something someething something  `,
-    image: `/images/case-3.webp`,
+    title: `Mahit Dagar debated on the national circuit at Rowland Hall Upper School in Salt Lake City, Utah. He amassed 3 bids to the Tournament of Champions, reaching semifinals at multiple national circuit tournaments such as the Alta Silver and Black Invitational, UNLV, and Bingham. He has also been awarded the top seed at the Mid America Cup Tournament. During his senior year, Mahit has coached several teams to reach elimination rounds at national circuit tournaments. He looks forward to coaching you all this summer.`,
+    image: `/images/mahit.png`,
     alt: `Proident pariatur est.`,
     name: `Instructor`,
   },
@@ -102,8 +108,8 @@ const tentative_staff_articles = [
   },
 
   {
-    title: `Dheeraj Pasikanti something soemthing something someething something soemthing something someething something soemthing something someething something soemthing something someething something soemthing something someething something soemthing something someething something  `,
-    image: `/images/case-2.webp`,
+    title: `Dheeraj Pasikanti debates for Middleton High School in Wisconsin. He has championed many local Wisconsin tournaments and also won multiple spears awards at regional tournaments. Dheeraj has reached the semifinals at the state tournament and was ranked the 5th best speaker in the tournament. He has also qualified to the national tournament multiple times. Dheeraj is thrilled to be an instructor at Impact this summer.`,
+    image: `/images/dheeraj.png`,
     alt: `Proident pariatur est.`,
     name: `Instructor`,
   },

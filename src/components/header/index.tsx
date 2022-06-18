@@ -25,7 +25,7 @@ const Header = () => (
         <span className={tw(`mx-2`)}>  </span>
         <Button><Link href={'/schedule'}>Schedule</Link></Button>
         <span className={tw(`mx-2`)}>  </span>
-        <Button primary>Our Team</Button>
+        <Button primary><Link href={'/our-team'}>Our Team</Link></Button>
         <span className={tw(`mx-2`)}>  </span>
         <Button><Link href={'mailto:23channa@elmbrookstudents.org?subject= Request for Information from Impact Debate&body=Please list any concerns you have below:'}>Contact Us</Link></Button>
         <span className={tw(`mx-2`)}>  </span>
