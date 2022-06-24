@@ -34,6 +34,10 @@ const links = [
     label: `Register`,
     href: `https://forms.gle/nkZb2tDSyTDWFL38A`,
   },
+  {
+    label: `Our Mission`,
+    href: `/mission`,
+  }
 ];
 
 // const secondaryLinks = [

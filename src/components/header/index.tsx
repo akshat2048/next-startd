@@ -30,6 +30,8 @@ const Header = () => (
         <Button><Link href={'mailto:23channa@elmbrookstudents.org?subject= Request for Information from Impact Debate&body=Please list any concerns you have below:'}>Contact Us</Link></Button>
         <span className={tw(`mx-2`)}>  </span>
         <Button primary><Link href={'https://forms.gle/nkZb2tDSyTDWFL38A'}>Register</Link></Button>
+        <span className={tw(`mx-2`)}>  </span>
+        <Button><Link href={'/mission'}>Our Mission</Link></Button>
       </div>
     </div>
     {/* <div className={tw(`flex justify-center w-full`)}>

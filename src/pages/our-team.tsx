@@ -81,30 +81,17 @@ const tentative_staff_articles = [
     name: `Instructor`,
   },
   {
-    title: `Rafeh Khan something soemthing something someething. something soemthing something someething something soemthing something someething something soemthing something someething something soemthing something someething something soemthing something someething something soemthing something  `,
+    title: `Rafeh is an upcoming senior at Pine View School in Osprey, Florida. During his career, he has broken at numerous national tournaments, including the Paradigm Dowling, University of Nevada, Plano West, and Grapevine, while also championing an international tournament, the Quarantine Classic. Along with being a top seed and reaching Quarterfinals at Dowling, he also ranked the 4th speaker out of 128 other competitors. Rafeh has qualified for NSDA Nationals once as well as NCFL Nationals twice. Currently, ranked 5th in the Florida Sunshine District, he has been awarded the Academic All-American. Rafeh qualified for the Tournament of Champions (Gold) in 2021. He has also coached a team to Quarterfinals at Novice States and another to qualify for NCFL Nationals.`,
     image: `https://i.imgur.com/J6te8jW.jpg`,
     alt: `Proident pariatur est.`,
     name: `Instructor`,
   },
 
   {
-    title: `Melinda Li something soemthing something someething something soemthing something someething something soemthing something someething something soemthing something someething something soemthing something someething something soemthing something someething something soemthing  `,
-    image: `/images/case-3.webp`,
+    title: `Melinda Li debates on the national circuit for A and M Consolidated High School in Texas. She has reached late elimination rounds at many national circuit tournaments including the Churchill Classic, Cypress, UK, and Blue Key. Melinda has also reached semifinals at the Bellaire Debate Tournament and won numerous speaker awards throughout her career. Locally, she has reached octofinals at the highly competitive Texas Forensic Association’s State Tournament. Melinda is super excited to teach at Impact this summer!`,
+    image: `/images/melinda.png`,
     alt: `Proident pariatur est.`,
     name: `Lab Leader`,
-  },
-
-  {
-    title: `Arnav Mehta something soemthing something someething something soemthing something someething something soemthing something someething something soemthing something someething something soemthing something someething something soemthing something someething something  `,
-    image: `/images/case-1.webp`,
-    alt: `Proident pariatur est.`,
-    name: `Instructor`,
-  },
-  {
-    title: `Shailan Patel something soemthing something someething something soemthing something someething something soemthing something someething something soemthing something someething something soemthing something someething something soemthing something someething something soemthing  `,
-    image: `/images/case-1.webp`,
-    alt: `Proident pariatur est.`,
-    name: `Instructor`,
   },
 
   {
@@ -114,8 +101,8 @@ const tentative_staff_articles = [
     name: `Instructor`,
   },
   {
-    title: `Claire Wang something soemthing something someething something soemthing something someething something soemthing something someething something soemthing something someething something soemthing something someething something soemthing something someething something soemthing  `,
-    image: `/images/case-1.webp`,
+    title: `Claire Wang is a rising senior who debates for A&M Consolidated High School in Texas. Throughout her career, she has semifinaled the Bellaire Debate Tournament and reached late elimination rounds at other national tournaments such as Cypress, the Churchill Classic, Blue Key, and UK. In addition, she has been among the 10 teams throughout the nation invited to the prestigious Blue Key Round Robin, and has reached octofinals at TFA State. Claire looks forward to joining the Impact team this summer!`,
+    image: `/images/claire.png`,
     alt: `Proident pariatur est.`,
     name: `Lab Leader`,
   },
