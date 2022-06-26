@@ -56,6 +56,9 @@ const CasesSection = () => (
                 <div className={tw(`max-w-7xl mx-4 lg:mx-auto pt-20 lg:pt-40`)}>
                     <h1 className={tw(`text-white text-4xl lg:text-7xl font-bold text-center`)}>Schedule</h1>
                     <p className={tw(`text-white text-gray-400 text-center text-xl mt-12`)}>
+                        * All times in Central Time.
+                    </p>
+                    <p className={tw(`text-white text-gray-400 text-center text-xl mt-12`)}>
                         Summer Session: 10:00 AM to 2:00 PM every weekday from August 1 to 11.
                     </p>
                     <p className={tw(`text-white text-gray-400 text-center text-xl mt-12`)}>
@@ -86,7 +89,7 @@ Mentor Team Meeting: 1:30 - 2:30pm
 Individual Personalized Drills
 */}
                     <p className={tw(`text-white text-gray-400 text-center text-xl mt-12`)}>Live Lectures: 9:00 -10:00am</p>
-                    <p className={tw(`text-white text-gray-400 text-center text-xl mt-15`)}>Lab/Drills: 10:00 -11:00am PDT</p>
+                    <p className={tw(`text-white text-gray-400 text-center text-xl mt-15`)}>Lab/Drills: 10:00 -11:00am</p>
                     <p className={tw(`text-white text-gray-400 text-center text-xl mt-15`)}>Practice Rounds: 11:00 -12:30pm</p>
                     <p className={tw(`text-white text-gray-400 text-center text-xl mt-15`)}>Lunch Break: 12:30 -1:30pm</p>
                     <p className={tw(`text-white text-gray-400 text-center text-xl mt-15`)}>Mentor Team Meeting / Individual Personalized Drills: 1:30 - 2:30pm</p>

@@ -91,7 +91,7 @@ const tentative_staff_articles = [
     title: `Melinda Li debates on the national circuit for A and M Consolidated High School in Texas. She has reached late elimination rounds at many national circuit tournaments including the Churchill Classic, Cypress, UK, and Blue Key. Melinda has also reached semifinals at the Bellaire Debate Tournament and won numerous speaker awards throughout her career. Locally, she has reached octofinals at the highly competitive Texas Forensic Association’s State Tournament. Melinda is super excited to teach at Impact this summer!`,
     image: `/images/melinda.png`,
     alt: `Proident pariatur est.`,
-    name: `Lab Leader`,
+    name: `Instructor`,
   },
 
   {
@@ -104,7 +104,7 @@ const tentative_staff_articles = [
     title: `Claire Wang is a rising senior who debates for A&M Consolidated High School in Texas. Throughout her career, she has semifinaled the Bellaire Debate Tournament and reached late elimination rounds at other national tournaments such as Cypress, the Churchill Classic, Blue Key, and UK. In addition, she has been among the 10 teams throughout the nation invited to the prestigious Blue Key Round Robin, and has reached octofinals at TFA State. Claire looks forward to joining the Impact team this summer!`,
     image: `/images/claire.png`,
     alt: `Proident pariatur est.`,
-    name: `Lab Leader`,
+    name: `Instructor`,
   },
 ]
 

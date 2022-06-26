@@ -28,7 +28,7 @@ const links = [
   },
   {
     label: `Contact Us`,
-    href: `mailto:23channa@elmbrookstudents.org?subject= Request for Information from Impact Debate&body=Please list any concerns you have below:`,
+    href: `mailto:impactdebateinstitute@gmail.com?subject= Request for Information from Impact Debate&body=Please list any concerns you have below:`,
   },
   {
     label: `Our Mission`,
