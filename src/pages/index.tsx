@@ -24,16 +24,16 @@ const photos = [
     width: 1008,
     height: 1344
   },
-  {
-    src: '/images/IMG_2E90260755D0-1.jpeg',
-    width: 4,
-    height: 3.5
-  },
-  {
-    src: '/images/IMG_98555EEC069F-1.jpeg',
-    width: 4,
-    height: 3.5
-  },
+  // {
+  //   src: '/images/IMG_2E90260755D0-1.jpeg',
+  //   width: 4,
+  //   height: 3.5
+  // },
+  // {
+  //   src: '/images/IMG_98555EEC069F-1.jpeg',
+  //   width: 4,
+  //   height: 3.5
+  // },
   {
     src: '/images/IMG_CAD4FC355832-1.jpeg',
     width: 4,
@@ -50,11 +50,6 @@ const photos = [
     width: 4,
     height: 3
   },
-  {
-    src: '/images/IMG_CE5C3B74EC7A-1.jpeg',
-    width: 4,
-    height: 3
-  }
 ];
 
 const photos2 = [

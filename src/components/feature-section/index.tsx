@@ -42,7 +42,11 @@ const FeatureSection = () => (
             </p>
           </div> */}
         </div>
-        
+        <div className={tw(`w-full lg:w-1/2 px-8`)}>
+          <div className={tw(`lg:mb-12 lg:mb-0 pb-12 lg:pb-0 mt-16 lg:mt-0 mx-6 lg:mx-0`)}>
+            <img src='https://i.imgur.com/RqrYSRY.jpg' width={'100%'} height={'100%'} />
+          </div>
+        </div>
         <p className={tw(`mt-2 text-5xl lg:text-7xl font-bold tracking-tight text-gray-900`)}>
             Why Debate?
           </p>
@@ -70,6 +74,7 @@ const FeatureSection = () => (
             Perhaps the most important skill debate teaches students is how to be an advocate. It is quite common for debaters to present cases on structural oppression, racism, and patriarchal norms. Competitive debate shows students how to fight for the issues that they hold most dear to their heart. The persuasion and public speaking skills acquired through the activity are very self-empowering. In addition, speech and debate truly opens students’ eyes to societal issues occurring throughout the world. 
             </p>
           </div>
+          
           {/* <div className={tw(`w-full md:w-1/2 lg:w-1/3 p-8`)}>
             <div className={tw(`flex items-center mb-6`)}>
               <Check width={20} height={20} fill="currentColor" className={tw(`h-6 w-6 text-indigo-500`)} />
@@ -80,6 +85,11 @@ const FeatureSection = () => (
               consectetur.
             </p>
           </div> */}
+        </div>
+        <div className={tw(`w-full lg:w-1/2 px-8`)}>
+          <div className={tw(`lg:mb-12 lg:mb-0 pb-12 lg:pb-0 mt-16 lg:mt-0 mx-6 lg:mx-0`)}>
+            <img src='https://i.imgur.com/b4SAvbw.jpg' width={'100%'} height={'100%'} />
+          </div>
         </div>
       </div>
     </div>
