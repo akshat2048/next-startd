@@ -31,12 +31,12 @@ const links = [
     href: `mailto:23channa@elmbrookstudents.org?subject= Request for Information from Impact Debate&body=Please list any concerns you have below:`,
   },
   {
-    label: `Register`,
-    href: `https://forms.gle/nkZb2tDSyTDWFL38A`,
-  },
-  {
     label: `Our Mission`,
     href: `/mission`,
+  },
+  {
+    label: `Register`,
+    href: `https://forms.gle/nkZb2tDSyTDWFL38A`,
   }
 ];
 
