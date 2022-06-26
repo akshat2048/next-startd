@@ -64,11 +64,6 @@ const photos2 = [
     height: 3.5
   },
   {
-    src: '/images/IMG_98555EEC069F-1.jpeg',
-    width: 4,
-    height: 3.5
-  },
-  {
     src: '/images/IMG_CAD4FC355832-1.jpeg',
     width: 4,
     height: 3.5
@@ -76,21 +71,20 @@ const photos2 = [
 ]
 
 const photos3 = [{
-  src: 'https://i.imgur.com/b4SAvbw.jpg',
-  width: 3.5,
-  height: 4
-},
-
-{
-  src: '/images/IMG_1062.jpg',
-  width: 4,
-  height: 3
+  src: 'https://i.imgur.com/RqrYSRY.jpg',
+  width: 1512,
+  height: 2016
 },
 {
-  src: '/images/IMG_CE5C3B74EC7A-1.jpeg',
+  src: 'https://i.imgur.com/nGoWWph.jpg',
+  width: 1008,
+  height: 1344
+},
+{
+  src: '/images/IMG_2E90260755D0-1.jpeg',
   width: 4,
-  height: 3
-}
+  height: 3.5
+},
 ]
 
 export default function Home() {
