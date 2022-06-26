@@ -2,6 +2,7 @@ import { tw } from 'twind';
 import Particles from 'react-tsparticles';
 import Arrow from '@/constants/svg/arrow.svg';
 import Page from '@/components/page';
+import Link from 'next/link';
 
 const ParticleBg = () => (
   <Particles
@@ -181,6 +182,8 @@ const CasesSection = () => (
           </div>
         </div>
       </div>
+    <Link href={'https://docs.google.com/forms/d/e/1FAIpQLSf_jf2pAp1i554MFA2NWYagCB6ThHykeeXoLiTVju2egQx5tQ/viewform'}><p className={tw(`text-white text-gray-400 text-center text-xl mt-12`)}><u>Sign up to be an instructor here.</u></p></Link>
+
     </div>
   </section>
   </Page>

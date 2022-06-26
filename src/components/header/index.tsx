@@ -32,6 +32,7 @@ const Header = () => (
         <Button primary><Link href={'/mission'}>Our Mission</Link></Button>
         <span className={tw(`mx-2`)}>  </span>
         <Button ><Link href={'https://forms.gle/nkZb2tDSyTDWFL38A'}>Register</Link></Button>
+        <span className={tw(`mx-2`)}>  </span>
       </div>
     </div>
     {/* <div className={tw(`flex justify-center w-full`)}>
