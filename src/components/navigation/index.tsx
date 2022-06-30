@@ -37,6 +37,10 @@ const links = [
   {
     label: `Register`,
     href: `https://forms.gle/nkZb2tDSyTDWFL38A`,
+  },
+  {
+    label: `Sign up to be an instructor`,
+    href:`https://docs.google.com/forms/d/e/1FAIpQLSf_jf2pAp1i554MFA2NWYagCB6ThHykeeXoLiTVju2egQx5tQ/viewform`
   }
 ];
 
