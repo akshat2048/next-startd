@@ -59,10 +59,10 @@ const CasesSection = () => (
                         * All times in Central Time.
                     </p>
                     <p className={tw(`text-white text-gray-400 text-center text-xl mt-12`)}>
-                        Summer Session: 10:00 AM to 2:00 PM every weekday from August 1 to 11.
+                        Summer Session: 10:00 AM to 2:00 PM every weekday from August 1 to 9.
                     </p>
                     <p className={tw(`text-white text-gray-400 text-center text-xl mt-12`)}>
-                        Summer Session Final Tournament: Weekend of August 12.
+                        Summer Session Final Tournament: Monday 8/8 and Tuesday 8/9.
                     </p>
                     <p className={tw(`text-white text-gray-400 text-center text-xl mt-12`)}> </p>
                     <hr></hr>

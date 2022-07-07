@@ -53,7 +53,7 @@ const articles = [
     name: `Co-Founder`,
   },
   {
-    title: `Akshat Channashetti is a rising senior at Brookfield East High School. In addition to winning multiple national circuit tournaments alonside Muthu, Akshat has also shown avid success in fields like Congressional debate, which have positions him to be a strong mentor for students to rely on as they work to improve their public speaking skills. He has received multiple speaker awards as well from tournaments like Nano Nagle Classic and the Apple Valley Invitational. Lastly, he's qualified to the NSDA and NCFL National tournaments in public forum debate. He is excited to teach at Impact!`,
+    title: `Akshat Channashetti is a rising senior at Brookfield East High School. In addition to winning multiple national circuit tournaments alongside Muthu, Akshat has also shown avid success in fields like Congressional debate, which have positions him to be a strong mentor for students to rely on as they work to improve their public speaking skills. He has received multiple speaker awards as well from tournaments like Nano Nagle Classic and the Apple Valley Invitational. Lastly, he's qualified to the NSDA and NCFL National tournaments in public forum debate. He is excited to teach at Impact!`,
     image: `/images/akshat.jpg`,
     alt: `Proident pariatur est.`,
     name: `Co-Founder`,
@@ -95,12 +95,12 @@ const tentative_staff_articles = [
     name: `Instructor`,
   },
 
-  {
-    title: `Dheeraj Pasikanti debates for Middleton High School in Wisconsin. He has championed many local Wisconsin tournaments and also won multiple spears awards at regional tournaments. Dheeraj has reached the semifinals at the state tournament and was ranked the 5th best speaker in the tournament. He has also qualified to the national tournament multiple times. Dheeraj is thrilled to be an instructor at Impact this summer.`,
-    image: `/images/dheeraj.png`,
-    alt: `Proident pariatur est.`,
-    name: `Instructor`,
-  },
+  // {
+  //   title: `Dheeraj Pasikanti debates for Middleton High School in Wisconsin. He has championed many local Wisconsin tournaments and also won multiple spears awards at regional tournaments. Dheeraj has reached the semifinals at the state tournament and was ranked the 5th best speaker in the tournament. He has also qualified to the national tournament multiple times. Dheeraj is thrilled to be an instructor at Impact this summer.`,
+  //   image: `/images/dheeraj.png`,
+  //   alt: `Proident pariatur est.`,
+  //   name: `Instructor`,
+  // },
   {
     title: `Claire Wang is a rising senior who debates for A&M Consolidated High School in Texas. Throughout her career, she has semifinaled the Bellaire Debate Tournament and reached late elimination rounds at other national tournaments such as Cypress, the Churchill Classic, Blue Key, and UK. In addition, she has been among the 10 teams throughout the nation invited to the prestigious Blue Key Round Robin, and has reached octofinals at TFA State. Claire looks forward to joining the Impact team this summer!`,
     image: `/images/claire.png`,
